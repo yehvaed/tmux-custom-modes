@@ -1,0 +1,2 @@
+TODO: add alias to command to mimic close behaviour of nvim (ex. :qa :q etc) #low
+TODO: add leader key table helpers to reduce amount of code in tmux.conf
